@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.FormDangNhap.resources
+C:\Users\admin\source\repos\QLSB\QLSB\bin\Debug\QuanLySanBong.exe.config
+C:\Users\admin\source\repos\QLSB\QLSB\bin\Debug\QuanLySanBong.exe
+C:\Users\admin\source\repos\QLSB\QLSB\bin\Debug\QuanLySanBong.pdb
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Datsan.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Trangchu.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Properties.Resources.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Quanlykh.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Quanlynhanvien.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Thanhtoan.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.Thongtintaikhoan.resources
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.exe
+C:\Users\admin\source\repos\QLSB\QLSB\obj\Debug\QuanLySanBong.pdb
